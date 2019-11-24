@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/caragadores-electricos/static/css/main.463d74f4.chunk.css",
+    "main.js": "/caragadores-electricos/static/js/main.6d05a81d.chunk.js",
+    "main.js.map": "/caragadores-electricos/static/js/main.6d05a81d.chunk.js.map",
+    "runtime-main.js": "/caragadores-electricos/static/js/runtime-main.02d67195.js",
+    "runtime-main.js.map": "/caragadores-electricos/static/js/runtime-main.02d67195.js.map",
+    "static/css/2.8b70035b.chunk.css": "/caragadores-electricos/static/css/2.8b70035b.chunk.css",
+    "static/js/2.2d44d41c.chunk.js": "/caragadores-electricos/static/js/2.2d44d41c.chunk.js",
+    "static/js/2.2d44d41c.chunk.js.map": "/caragadores-electricos/static/js/2.2d44d41c.chunk.js.map",
+    "index.html": "/caragadores-electricos/index.html",
+    "precache-manifest.f8abc0a74b680cbc548d587ed5b31cbd.js": "/caragadores-electricos/precache-manifest.f8abc0a74b680cbc548d587ed5b31cbd.js",
+    "service-worker.js": "/caragadores-electricos/service-worker.js",
+    "static/css/2.8b70035b.chunk.css.map": "/caragadores-electricos/static/css/2.8b70035b.chunk.css.map",
+    "static/css/main.463d74f4.chunk.css.map": "/caragadores-electricos/static/css/main.463d74f4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d67195.js",
+    "static/css/2.8b70035b.chunk.css",
+    "static/js/2.2d44d41c.chunk.js",
+    "static/css/main.463d74f4.chunk.css",
+    "static/js/main.6d05a81d.chunk.js"
+  ]
+}
