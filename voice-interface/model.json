@@ -1,0 +1,67 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "cargador de bateria",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "NearestChargersIntent",
+                    "slots": [],
+                    "samples": [
+                        "Dime  los cargadores mas cercanos"
+                    ]
+                },
+                {
+                    "name": "TellTheRouteIntent",
+                    "slots": [],
+                    "samples": [
+                        "llevame"
+                    ]
+                },
+                {
+                    "name": "BookNearestChargerIntent",
+                    "slots": [],
+                    "samples": [
+                        "apartalo"
+                    ]
+                },
+                {
+                    "name": "BateryLeftIntent",
+                    "slots": [],
+                    "samples": [
+                        "cuanta bateria me queda"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
