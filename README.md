@@ -1,68 +1,55 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Voltio Station 🔌 
+Voltio Station es una webapp que le permite a sus usuarios encontrar la estación de carga eléctrica más cercana a su ubicación, también le muestra las estaciones que están ocupadas y las que están disponibles, así como poder revisar el historial de uso de la webapp y tener la posibilidad de un lector QR para eficientar el pago del servicio. Una de las ventajas de esta webapp es que el usuario también puede interactuar con ella a traves de comandos de voz.
 
-In the project directory, you can run:
 
-### `npm start`
+![](src/img/img/../voltioStation6.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Proceso creativo 💭
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p> Este proyecto fue desarrollado durante un hackathon organizado por Laboratoria que tuvo una duración de dos días.</p>
 
-### `npm test`
+![](src/img/img/../voltioStation1.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>El objetivo de este reto era diseñar una aplicación móvil para una empresa que busca crear la red de carga inteligente más grande de México. </p>
 
-### `npm run build`
+### Investigación 🔎
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Investigación de escritorio por parte de todo el equipo para entender la industria y el contexto.
+- 6 apps y webs para benchmarking
+- Crazy eights para ideación en grupo
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+#### User persona 🙋
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>Ana</P>
 
-### `npm run eject`
+- 36 años.
+- Coordinadora de recursos humanos de una empresa transnacional.
+- Amante de la tecnología.
+- Le gusta viajar
+- Recién se compró un auto eléctrico.
+- Nivel socioeconómico A/B
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Pains 😣
+- Aún no sabe dónde se encuentran las estaciones más cercanas.
+- Las aplicaciones que existen son muy complicadas.
+- No le gusta usar el celular mientras maneja.
+  
+#### User Interface 📱
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![](src/img/img/../voltioStation4.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+![](src/img/img/../voltioStation5.png)
+ 
+#### Desarrollo 💻
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p>Para lograr este MVP utilizamos REACT, bootstrap y algunas librerías, para la interfaz de voz, la skill de Alexa,  utilizamos javascript y la consola propocionada por Amazon. </p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![](src/img/img/../mvp.gif)
 
-### Code Splitting
+<p>Una de nuestras propuestas de valor es que el usuario pueda interactuar con la webapp a través de una interfaz de voz, esto se logró desarrollando una skill de Alexa que a futuro consumirá los datos del usuario y podrá establecer una relación más personalizada con él. </p>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<p>🏆🏆🏆🏆</p>
+<p>Como resultado obtuvimos el segundo lugar en el hackathon.</p>
